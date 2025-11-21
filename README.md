@@ -1,7 +1,7 @@
 # UE-AD-A1-MIXTE
 
 ## Lien vers le TP MIXTE : 
-![GO TO TP MIXTE](https://helene-coullon.fr/pages/ue-ad-fil-25-26/tp-mixte/)_
+https://helene-coullon.fr/pages/ue-ad-fil-25-26/tp-mixte/
 
 ---
 
@@ -36,7 +36,6 @@ Attention, il faut bien veiller à ce que le service user soit lancé lorsqu'on 
 
 L'architecture suivie est en microservices et son schéma est le suivant :
 
-![Texte alternatif](ARCHI-MIXTE.png)
 
 
 
