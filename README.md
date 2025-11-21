@@ -14,3 +14,28 @@ Il faut créer et lancer un environnement virtuel Python en faisant :
 ```bash
 python3 -m venv venv
 .\venv\Scripts\activate
+```
+
+Il faut ensuite installer les packages nécessaires au projet (attention à bien être dans l'environnement virtuel)
+
+```
+pip install -r requirements.txt
+```
+
+## Lancement d'un projet déjà initialisé
+
+Pour lancer chaque microservice : se placer dans le dossier et exécuter le fichier du même nom avec Python. Exemple sur Windows :
+
+```
+cd .\booking\
+python .\booking.py
+```
+Attention, il faut bien veiller à ce que le service user soit lancé lorsqu'on veut tester (car pour certaines requêtes, les droits utilisateurs sont vérifiés).
+
+## Architecture utilisée
+
+L'architecture suivie est en microservices et son schéma est le suivant :
+
+## Tests et exemples
+
+Les tests ont été réalisés sur Insomnia
