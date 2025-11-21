@@ -35,7 +35,9 @@ Attention, il faut bien veiller à ce que le service user soit lancé lorsqu'on 
 ## Architecture utilisée
 
 L'architecture suivie est en microservices et son schéma est le suivant :
-![TT] ./ARCHI-MIXTE.png
+
+![Texte alternatif](ARCHI-MIXTE.png)
+
 
 
 ## Tests et exemples
